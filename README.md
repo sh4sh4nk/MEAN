@@ -1,2 +1,2 @@
 # MEAN
-Checking our the MEAN stack with openshift
+Checking  the MEAN stack with openshift
